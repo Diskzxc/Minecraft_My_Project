@@ -1,2 +1,2 @@
 # Minecraft_My_Project
-เก็บไฟล์เแกสาร resourcepack/mobs
+เก็บไฟล์เอกสาร resourcepack/mobs
