@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/netherite_sword"
+		"layer0": "item/iron_sword"
 	},
 	
 	"overrides": 
@@ -9,9 +9,9 @@
 		{
 			"predicate": 
 			{
-				"custom_model_data":1000
+				"custom_model_data":2000
 			}, 
-				"model": "item/Katana/creationsplitter"
+				"model": "item/Sword/Tier1Sword"
 		}
 		
 	]

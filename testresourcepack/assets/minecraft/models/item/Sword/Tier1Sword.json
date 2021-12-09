@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/Sword/Iron",
-		"1": "item/Sword/BlackIron",
-		"2": "item/Sword/Blade",
-		"particle": "item/Sword/Iron"
+		"0": "item/Sword/Tier1Sword/Iron",
+		"1": "item/Sword/Tier1Sword/BlackIron",
+		"2": "item/Sword/Tier1Sword/Blade",
+		"particle": "item/Sword/Tier1Sword/Iron"
 	},
 	"elements": [
 		{
